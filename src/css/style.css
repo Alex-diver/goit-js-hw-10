@@ -1,0 +1,19 @@
+.breed-select {
+  margin-bottom: 10px;
+  max-width: 250px;
+}
+.cat-info {
+  display: flex;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.cat-info > div {
+  max-width: 600px;
+}
+
+.cat-header {
+  margin-top: 0;
+  font-weight: 600;
+  font-size: 20px;
+}
